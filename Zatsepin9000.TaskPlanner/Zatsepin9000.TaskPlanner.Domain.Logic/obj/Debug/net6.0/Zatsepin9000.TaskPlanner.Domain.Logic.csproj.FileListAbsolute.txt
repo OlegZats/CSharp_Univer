@@ -1,0 +1,15 @@
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.deps.json
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.pdb
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.pdb
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin.30587F77.Up2Date
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\Zatsepin9000.TaskPlanner.Domain.Logic.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.pdb
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\Zatsepin9000.TaskPlanner.Domain.Logic.dll

@@ -1,0 +1,11 @@
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.deps.json
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.pdb
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.AssemblyInfo.cs
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\Zatsepin9000.TaskPlanner.Domain.Models.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.pdb
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsip9000.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\Zatsepin9000.TaskPlanner.Domain.Models.dll

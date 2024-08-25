@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zatsip9000.TaskPlanner.Domain.Models\Zatsepin9000.TaskPlanner.Domain.Models.csproj" />
+    <ProjectReference Include="..\Zatsip9000.TaskPlanner.Domain.Models\Zatsip9000.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>
