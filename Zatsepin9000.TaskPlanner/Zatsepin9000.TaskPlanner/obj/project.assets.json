@@ -2,10 +2,24 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Zatsepin9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Zatsepin9000.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Zatsepin9000.TaskPlanner.DataAccess.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zatsepin9000.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
       "Zatsepin9000.TaskPlanner.Domain.Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Zatsepin9000.TaskPlanner.DataAccess.Abstractions": "1.0.0",
           "Zatsepin9000.TaskPlanner.Domain.Models": "1.0.0",
           "Zatsip9000.TaskPlanner.Domain.Models": "1.0.0"
         },
@@ -39,6 +53,11 @@
     }
   },
   "libraries": {
+    "Zatsepin9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Zatsepin9000.TaskPlanner.DataAccess.Abstractions/Zatsepin9000.TaskPlanner.DataAccess.Abstractions.csproj",
+      "msbuildProject": "../Zatsepin9000.TaskPlanner.DataAccess.Abstractions/Zatsepin9000.TaskPlanner.DataAccess.Abstractions.csproj"
+    },
     "Zatsepin9000.TaskPlanner.Domain.Logic/1.0.0": {
       "type": "project",
       "path": "../Zatsepin9000.TaskPlanner.Domain.Logic/Zatsepin9000.TaskPlanner.Domain.Logic.csproj",

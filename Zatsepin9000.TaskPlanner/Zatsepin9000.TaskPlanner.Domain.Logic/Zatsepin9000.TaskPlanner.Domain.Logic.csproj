@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Zatsepin9000.TaskPlanner.DataAccess.Abstractions\Zatsepin9000.TaskPlanner.DataAccess.Abstractions.csproj" />
     <ProjectReference Include="..\Zatsip9000.TaskPlanner.Domain.Models\Zatsepin9000.TaskPlanner.Domain.Models.csproj" />
     <ProjectReference Include="..\Zatsip9000.TaskPlanner.Domain.Models\Zatsip9000.TaskPlanner.Domain.Models.csproj" />
   </ItemGroup>

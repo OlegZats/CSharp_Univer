@@ -1,19 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Zatsip9000.TaskPlanner.Domain.Models;
+using Zatsepin9000.TaskPlanner.DataAccess.Abstractions;
+
 
 namespace Zatsepin9000.TaskPlanner.Domain.Logic
 {
-    public class SimpleTaskPlanner
+    public class SimpleTaskPlanner : IWorkItemsRepository
     {
-        public WorkItem[] CreatePlan(WorkItem[] items)
-        {
-            List<WorkItem> itemList = items.ToList();
+        private readonly IWorkItemsRepository _repository;
 
-            itemList.Sort((x, y) =>
+        public SimpleTaskPlanner()
+        {
+        }
+
+        public SimpleTaskPlanner(IWorkItemsRepository repository)
+        {
+            _repository = repository ?? throw new ArgumentNullException(nameof(repository));
+        }
+
+        public WorkItem[] All => throw new NotImplementedException();
+
+        public WorkItem[] CreatePlan(WorkItem[] workItems)
+        {
+
+            var items = _repository.All;
+
+            List<WorkItem> activeItems = items.Where(item => !item.IsComplete).ToList();
+
+            activeItems.Sort((x, y) =>
             {
                 int priorityComparison = y.Priority.CompareTo(x.Priority);
                 if (priorityComparison != 0)
@@ -26,7 +42,12 @@ namespace Zatsepin9000.TaskPlanner.Domain.Logic
                 return string.Compare(x.Title, y.Title, StringComparison.Ordinal);
             });
 
-            return itemList.ToArray();
+            return activeItems.ToArray();
+        }
+
+        public IEnumerable<object> GetAll()
+        {
+            throw new NotImplementedException();
         }
     }
 }

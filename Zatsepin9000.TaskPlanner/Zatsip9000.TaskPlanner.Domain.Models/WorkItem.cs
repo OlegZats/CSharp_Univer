@@ -9,6 +9,8 @@ namespace Zatsip9000.TaskPlanner.Domain.Models
 {
     public class WorkItem
     {
+        public Guid Id { get; set; }
+
         public DateTime CreationDate { get; set; }
         public DateTime DueDate { get; set; }
         public Priority Priority { get; set; }
@@ -16,7 +18,15 @@ namespace Zatsip9000.TaskPlanner.Domain.Models
         public string Title { get; set; }
         public string Description { get; set; }
         public bool IsComplete { get; set; }
+        public bool IsCompleted { get; set; }
 
+        public WorkItem Clone() 
+        {
+            return new WorkItem
+            {
+                Id = Guid.NewGuid()
+            };
+        }
 
         public override string ToString()
         {

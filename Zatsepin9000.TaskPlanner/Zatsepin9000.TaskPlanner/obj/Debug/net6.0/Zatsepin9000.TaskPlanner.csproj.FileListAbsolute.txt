@@ -18,3 +18,6 @@ D:\oleg\5 Семестр\Розробка проектів засобами пл
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.pdb
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Models.pdb
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\obj\Debug\net6.0\Zatsepin.825D91BE.Up2Date
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.sourcelink.json
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.DataAccess.Abstractions.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.DataAccess.Abstractions.pdb

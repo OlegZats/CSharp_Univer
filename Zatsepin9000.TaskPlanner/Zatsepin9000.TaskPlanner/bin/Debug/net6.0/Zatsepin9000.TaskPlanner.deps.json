@@ -15,8 +15,20 @@
           "Zatsepin9000.TaskPlanner.dll": {}
         }
       },
+      "Zatsepin9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "Zatsepin9000.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Zatsepin9000.TaskPlanner.DataAccess.Abstractions.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Zatsepin9000.TaskPlanner.Domain.Logic/1.0.0": {
         "dependencies": {
+          "Zatsepin9000.TaskPlanner.DataAccess.Abstractions": "1.0.0",
           "Zatsepin9000.TaskPlanner.Domain.Models": "1.0.0",
           "Zatsip9000.TaskPlanner.Domain.Models": "1.0.0"
         },
@@ -39,6 +51,11 @@
   },
   "libraries": {
     "Zatsepin9000.TaskPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zatsepin9000.TaskPlanner.DataAccess.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

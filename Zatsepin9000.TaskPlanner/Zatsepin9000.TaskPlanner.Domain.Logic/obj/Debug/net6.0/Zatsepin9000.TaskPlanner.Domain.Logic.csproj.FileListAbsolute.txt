@@ -13,3 +13,6 @@ D:\oleg\5 Семестр\Розробка проектів засобами пл
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\Zatsepin9000.TaskPlanner.Domain.Logic.dll
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.pdb
 D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\Zatsepin9000.TaskPlanner.Domain.Logic.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Zatsepin9000.TaskPlanner.Domain.Logic.sourcelink.json
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.DataAccess.Abstractions.dll
+D:\oleg\5 Семестр\Розробка проектів засобами платформи .NET\Практична №1\Zatsepin9000.TaskPlanner\Zatsepin9000.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Zatsepin9000.TaskPlanner.DataAccess.Abstractions.pdb

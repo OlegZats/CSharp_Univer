@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zatsepin9000.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9886ea19f37df13a7bb2460b374750cd74198f16")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zatsepin9000.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zatsepin9000.TaskPlanner.Domain.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
